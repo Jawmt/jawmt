@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Spring & Angular<br>👯 I’m looking to collaborate on interesting project<br>🤝 I’m looking for a company <br>🌱 I’m currently learning Docker & Kubernetes<br>⚡ Interest : UI/UX Design
+🔭 I’m currently working on Spring & Angular<br>🤝 I’m looking for a company <br>🌱 I’m currently learning Docker & Kubernetes<br>⚡ Interest : UI/UX Design
 
 
 ## 🌐 Socials:
