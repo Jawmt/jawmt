@@ -1,4 +1,5 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Jawad</h1>
+<h3 align="center">A junior developer from FRANCE</h3>
 🔭 I’m currently working on Spring & Angular<br>🤝 I’m looking for a company <br>🌱 I’m currently learning Docker & Kubernetes<br>⚡ Interest : UI/UX Design
 
 
