@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jawad</h1>
+<h1 align="center">Hi, I'm Jawad</h1>
 <h3 align="center">A junior developer from FRANCE</h3>
 🔭 I’m currently student developer<br>🤝 I’m looking for a company <br>🌱 I’m currently learning Docker & CI/CD<br>⚡ Interest : UI/UX Design
 
