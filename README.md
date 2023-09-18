@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jawad</h1>
-<h3 align="center">A junior developer from FRANCE</h3>
+<h3 align="center">A developer fullstack Java/Spring - React from FRANCE</h3>
 
 
 
